@@ -1,4 +1,4 @@
-module github.com/Crazzio/crazziofit
+module github.com/Crazzio/crazziocart
 
 go 1.23.0
 
